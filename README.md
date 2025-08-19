@@ -4,6 +4,6 @@
 
 **Technologies and tools used:** This website has been built using HTML. Tools used to maintain, make and publish this website are Command line (Linux Terminal), Visual Studio Code (Code Editor), Git (Version Control), Github(Remote Repository) and GitHub's feature that allows to publish website from public repositories.
 
-**What i learned:** The code can sometimes be confusing, especially when it’s over 100 lines long. That’s why we should organize code properly – add spaces, comments, etc. File and directory names should be as clear as possible. From this project, I didn’t learn much new because almost everything, except "noopener noreferrer" in <a>, I had already learned during self-study. However, I had never used <ul> and <ol> before, so this was my first experience with them. Moreover, it was my first project using Git and publishing a website via GitHub.
+**What i learned:** The code can sometimes be confusing, especially when it’s over 100 lines long. That’s why we should organize code properly – add spaces, comments, etc. File and directory names should be as clear as possible. From this project, I didn’t learn much new because almost everything, except "noopener noreferrer" in `a`, I had already learned during self-study. However, I had never used `ul` and `ol` before, so this was my first experience with them. Moreover, it was my first project using Git and publishing a website via GitHub.
 
 
